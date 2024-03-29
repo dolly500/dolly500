@@ -2,9 +2,9 @@
 
 ### I'm a FullStack Software Engineer
 
-**dolly500/dolly500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Here are some ideas to get started:
 
 - 🔭 I’m currently working on building blackgatstories.com, edugloglobalbank.com, allsextoys.online...
 
